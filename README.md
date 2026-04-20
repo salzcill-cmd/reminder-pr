@@ -26,8 +26,7 @@
 
 ## 🚀 **Demo Langsung**
 
-> 🔗 **Coba sekarang** – [Klik untuk demo langsung](https://username-anda.github.io/reminder-pr)  
-> *(Ganti dengan link GitHub Pages Anda setelah deploy)*
+> 🔗 **Coba sekarang** – [Klik untuk demo langsung](https://salzcill-cmd.github.io/reminder-pr/)  
 
 Atau cukup unduh file `index.html` dan buka di browser modern favorit Anda.
 
@@ -50,24 +49,6 @@ Atau cukup unduh file `index.html` dan buka di browser modern favorit Anda.
 | 🔊 **Efek Suara** | Feedback audio halus untuk aksi sukses, hapus, dan notifikasi. |
 | 🎉 **Konfeti** | Animasi partikel meriah saat tugas diselesaikan. |
 | 📱 **Responsif** | Tampil sempurna di desktop, tablet, maupun ponsel. |
-
----
-
-## 🖼️ **Cuplikan Layar**
-
-<div align="center">
-
-| Mode Terang | Mode Gelap |
-|:-----------:|:----------:|
-| ![Tema Terang](https://via.placeholder.com/400x300?text=Tema+Terang) | ![Tema Gelap](https://via.placeholder.com/400x300?text=Tema+Gelap) |
-
-| Daftar Tugas | Streak & Statistik |
-|:------------:|:------------------:|
-| ![Daftar Tugas](https://via.placeholder.com/400x300?text=Daftar+Tugas) | ![Streak](https://via.placeholder.com/400x300?text=Streak) |
-
-</div>
-
-> 💡 *Ganti gambar placeholder dengan screenshot asli dari aplikasi Anda.*
 
 ---
 
@@ -108,7 +89,7 @@ cd reminder-pr
 # Gunakan server statis apa pun, misal:
 npx serve .
 # atau buka langsung file index.html
-
+```
 
 Opsi 3: Deploy ke GitHub Pages
 
