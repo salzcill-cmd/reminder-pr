@@ -1,6 +1,4 @@
-Berikut adalah file README.md dalam bahasa Indonesia yang sudah siap untuk langsung di-copy paste ke repository GitHub Anda.
 
-```markdown
 <div align="center">
 
 # 📚 Reminder PR · Manajemen Tugas Sekolah
@@ -110,7 +108,7 @@ cd reminder-pr
 # Gunakan server statis apa pun, misal:
 npx serve .
 # atau buka langsung file index.html
-```
+
 
 Opsi 3: Deploy ke GitHub Pages
 
@@ -231,4 +229,4 @@ Dibuat dengan ❤️ dan ☕ untuk para pelajar di mana pun
 Laporkan Bug · Minta Fitur
 
 </div>
-```
+
